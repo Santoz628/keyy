@@ -1,46 +1,18 @@
 {
     "keys": [
         {
-            "key": "ABCD-1234-EFGH-5678",
-            "created": "2025-10-24T14:35:00",
+            "key": "AAAA-BBBB-CCCC-DDDD",
+            "created": "2025-10-24T18:30:00",
             "days": 30,
             "hwid": "",
             "owner": "Cliente1"
         },
         {
-            "key": "IJKL-9012-MNOP-3456",
-            "created": "2025-10-24T15:00:00",
-            "days": 10,
-            "hwid": "",
-            "owner": "Cliente2"
-        },
-        {
-            "key": "6RG9-8SZR-A2L7-OJQR",
-            "created": "2025-10-24T17:33:49.500867",
-            "days": 1,
-            "hwid": "",
-            "owner": "racionais"
-        },
-        {
-            "key": "KKCW-9SMA-84GQ-QFIT",
-            "created": "2025-10-24T17:38:01.230712",
+            "key": "EEEE-FFFF-GGGG-HHHH",
+            "created": "2025-10-24T18:35:00",
             "days": 30,
             "hwid": "",
-            "owner": "rafael"
-        },
-        {
-            "key": "LF0A-E7YR-55KA-F2SL",
-            "created": "2025-10-24T17:57:49.897409",
-            "days": 1,
-            "hwid": "",
-            "owner": "teste"
-        },
-        {
-            "key": "81OP-Y2D5-9HD2-1NOF",
-            "created": "2025-10-24T18:01:28.352634",
-            "days": 1,
-            "hwid": "",
-            "owner": "teste2"
+            "owner": "Cliente2"
         }
     ]
 }
