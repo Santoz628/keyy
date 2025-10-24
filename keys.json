@@ -13,6 +13,13 @@
             "days": 30,
             "hwid": "",
             "owner": "Cliente2"
+        },
+        {
+            "key": "BRUS-JXP9-QD52-JW1G",
+            "created": "2025-10-24T18:04:55.279156",
+            "days": 1,
+            "hwid": "",
+            "owner": "testanto"
         }
     ]
 }
