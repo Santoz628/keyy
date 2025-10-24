@@ -1,0 +1,18 @@
+{
+    "keys": [
+        {
+            "key": "ABCD-1234-EFGH-5678",
+            "created": "2025-10-24T14:35:00",
+            "days": 30,
+            "hwid": "",
+            "owner": "Cliente1"
+        },
+        {
+            "key": "IJKL-9012-MNOP-3456",
+            "created": "2025-10-24T15:00:00",
+            "days": 10,
+            "hwid": "",
+            "owner": "Cliente2"
+        }
+    ]
+}
