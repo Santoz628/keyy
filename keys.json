@@ -13,6 +13,13 @@
             "days": 10,
             "hwid": "",
             "owner": "Cliente2"
+        },
+        {
+            "key": "6RG9-8SZR-A2L7-OJQR",
+            "created": "2025-10-24T17:33:49.500867",
+            "days": 1,
+            "hwid": "",
+            "owner": "racionais"
         }
     ]
 }
