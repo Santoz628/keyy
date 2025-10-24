@@ -34,6 +34,13 @@
             "days": 1,
             "hwid": "",
             "owner": "teste"
+        },
+        {
+            "key": "81OP-Y2D5-9HD2-1NOF",
+            "created": "2025-10-24T18:01:28.352634",
+            "days": 1,
+            "hwid": "",
+            "owner": "teste2"
         }
     ]
 }
