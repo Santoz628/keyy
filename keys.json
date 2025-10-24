@@ -27,6 +27,13 @@
             "days": 30,
             "hwid": "",
             "owner": "rafael"
+        },
+        {
+            "key": "LF0A-E7YR-55KA-F2SL",
+            "created": "2025-10-24T17:57:49.897409",
+            "days": 1,
+            "hwid": "",
+            "owner": "teste"
         }
     ]
 }
