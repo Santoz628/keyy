@@ -1,25 +1,11 @@
 {
     "keys": [
         {
-            "key": "AAAA-BBBB-CCCC-DDDD",
-            "created": "2025-10-24T18:30:00",
-            "days": 30,
-            "hwid": "",
-            "owner": "Cliente1"
-        },
-        {
-            "key": "EEEE-FFFF-GGGG-HHHH",
+            "key": "TEST-0000-1111-2222",
             "created": "2025-10-24T18:35:00",
             "days": 30,
             "hwid": "",
-            "owner": "Cliente2"
-        },
-        {
-            "key": "BRUS-JXP9-QD52-JW1G",
-            "created": "2025-10-24T18:04:55.279156",
-            "days": 1,
-            "hwid": "",
-            "owner": "testanto"
+            "owner": "ClienteTeste"
         }
     ]
 }
