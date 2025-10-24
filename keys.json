@@ -20,6 +20,13 @@
             "days": 1,
             "hwid": "",
             "owner": "racionais"
+        },
+        {
+            "key": "KKCW-9SMA-84GQ-QFIT",
+            "created": "2025-10-24T17:38:01.230712",
+            "days": 30,
+            "hwid": "",
+            "owner": "rafael"
         }
     ]
 }
